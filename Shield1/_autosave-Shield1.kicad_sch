@@ -1330,7 +1330,7 @@
   (symbol (lib_id "Device:C") (at 93.98 55.88 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 002bd37c-2cdf-42fa-9224-e629dce93a31)
-    (property "Reference" "C?" (id 0) (at 90.17 57.1501 0)
+    (property "Reference" "C4" (id 0) (at 90.17 57.1501 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "C" (id 1) (at 90.17 54.6101 0)
@@ -1349,7 +1349,7 @@
   (symbol (lib_id "Device:C") (at 144.78 30.48 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0808c325-8330-401e-a38b-e2f753ef1f13)
-    (property "Reference" "C?" (id 0) (at 146.0501 34.29 0)
+    (property "Reference" "C1" (id 0) (at 146.0501 34.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "C" (id 1) (at 143.5101 34.29 0)
@@ -1796,7 +1796,7 @@
   (symbol (lib_id "Device:C") (at 104.14 54.61 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fb2e9001-db82-43dc-8fa8-fcc0e82a26bc)
-    (property "Reference" "C2" (id 0) (at 100.33 55.8801 0)
+    (property "Reference" "C3" (id 0) (at 100.33 55.8801 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "C" (id 1) (at 100.33 53.3401 0)
@@ -1847,7 +1847,7 @@
   (symbol (lib_id "Device:C") (at 142.24 38.1 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fe78c5b9-6d8e-4bb7-98df-a03bb92646f5)
-    (property "Reference" "C1" (id 0) (at 143.5101 41.91 0)
+    (property "Reference" "C2" (id 0) (at 143.5101 41.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "C" (id 1) (at 140.9701 41.91 0)
@@ -1889,17 +1889,17 @@
     (path "/98c023e9-42ca-4d51-8a07-18f005631dac"
       (reference "#PWR07") (unit 1) (value "GND2") (footprint "")
     )
-    (path "/fe78c5b9-6d8e-4bb7-98df-a03bb92646f5"
+    (path "/0808c325-8330-401e-a38b-e2f753ef1f13"
       (reference "C1") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
-    (path "/fb2e9001-db82-43dc-8fa8-fcc0e82a26bc"
+    (path "/fe78c5b9-6d8e-4bb7-98df-a03bb92646f5"
       (reference "C2") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
-    (path "/002bd37c-2cdf-42fa-9224-e629dce93a31"
-      (reference "C?") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    (path "/fb2e9001-db82-43dc-8fa8-fcc0e82a26bc"
+      (reference "C3") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
-    (path "/0808c325-8330-401e-a38b-e2f753ef1f13"
-      (reference "C?") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    (path "/002bd37c-2cdf-42fa-9224-e629dce93a31"
+      (reference "C4") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/1f4d8215-5efe-4f79-b16f-06aa692013a9"
       (reference "J1") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:throughPin")
