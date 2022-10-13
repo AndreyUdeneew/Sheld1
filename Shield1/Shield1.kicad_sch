@@ -1364,7 +1364,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 130.81 38.1 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 03a6a5e6-4ebb-46e5-ac51-49423ce7b71a)
-    (property "Reference" "J?" (id 0) (at 130.81 36.83 0))
+    (property "Reference" "J1" (id 0) (at 130.81 36.83 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 131.445 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1399,7 +1399,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 97.79 40.64 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 09074b74-707f-4fd6-aad1-c707abaec103)
-    (property "Reference" "J?" (id 0) (at 97.79 39.37 0))
+    (property "Reference" "J2" (id 0) (at 97.79 39.37 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 98.425 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1415,7 +1415,7 @@
   (symbol (lib_id "power:GND1") (at 147.32 38.1 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0be6964b-9f1d-411a-a035-6c65d8e3596e)
-    (property "Reference" "#PWR02" (id 0) (at 153.67 38.1 0)
+    (property "Reference" "#PWR03" (id 0) (at 153.67 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND1" (id 1) (at 148.5901 40.64 0)
@@ -1433,7 +1433,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 120.65 118.11 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1485de8d-8f70-4a20-95c0-aeff96107065)
-    (property "Reference" "J18" (id 0) (at 119.38 118.11 0))
+    (property "Reference" "J20" (id 0) (at 119.38 118.11 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 123.19 117.475 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1449,7 +1449,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 163.83 49.53 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1f4d8215-5efe-4f79-b16f-06aa692013a9)
-    (property "Reference" "J1" (id 0) (at 163.83 50.8 0))
+    (property "Reference" "J3" (id 0) (at 163.83 50.8 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 163.195 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1465,7 +1465,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 173.99 72.39 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1f56a82d-2680-4024-ae88-76a11c3a12d3)
-    (property "Reference" "J6" (id 0) (at 173.99 73.66 0))
+    (property "Reference" "J8" (id 0) (at 173.99 73.66 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 173.355 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1481,7 +1481,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 149.86 92.71 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3a3efb47-7ad7-4b64-90ed-a5db99278b8f)
-    (property "Reference" "J11" (id 0) (at 149.86 93.98 0))
+    (property "Reference" "J13" (id 0) (at 149.86 93.98 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 149.225 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1497,7 +1497,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 173.99 69.85 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3d899ebc-75e9-4388-a3f4-9dce9851a58a)
-    (property "Reference" "J5" (id 0) (at 173.99 71.12 0))
+    (property "Reference" "J7" (id 0) (at 173.99 71.12 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 173.355 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1513,7 +1513,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 172.72 100.33 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 444c5646-501b-4e51-8e4c-f69225228519)
-    (property "Reference" "J13" (id 0) (at 172.72 101.6 0))
+    (property "Reference" "J15" (id 0) (at 172.72 101.6 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 172.085 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1529,7 +1529,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 163.83 52.07 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4482e7cf-9b65-4715-bd9c-386e52a94e50)
-    (property "Reference" "J2" (id 0) (at 163.83 53.34 0))
+    (property "Reference" "J4" (id 0) (at 163.83 53.34 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 163.195 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1545,7 +1545,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 157.48 80.01 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4ecb0cb9-8b36-4733-b43e-49c2dce829b1)
-    (property "Reference" "J8" (id 0) (at 157.48 81.28 0))
+    (property "Reference" "J10" (id 0) (at 157.48 81.28 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 156.845 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1577,7 +1577,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 143.51 59.69 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 669c262d-c5da-41c9-ac05-1b6bfe65291e)
-    (property "Reference" "J3" (id 0) (at 143.51 60.96 0))
+    (property "Reference" "J5" (id 0) (at 143.51 60.96 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 142.875 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1593,7 +1593,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 157.48 77.47 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 67360bad-17c5-4866-b554-85cfd713ebe5)
-    (property "Reference" "J7" (id 0) (at 157.48 78.74 0))
+    (property "Reference" "J9" (id 0) (at 157.48 78.74 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 156.845 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1627,7 +1627,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 123.19 118.11 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8770c33d-8988-4980-a1d7-71b8259e6385)
-    (property "Reference" "J19" (id 0) (at 121.92 118.11 0))
+    (property "Reference" "J21" (id 0) (at 121.92 118.11 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 125.73 117.475 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1661,7 +1661,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 172.72 102.87 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 963de0b0-0b43-49ae-abdb-ebe4b5daedf5)
-    (property "Reference" "J14" (id 0) (at 172.72 104.14 0))
+    (property "Reference" "J16" (id 0) (at 172.72 104.14 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 172.085 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1677,7 +1677,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 173.99 87.63 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 96f346da-fdce-41a4-96c3-7dcc020ec718)
-    (property "Reference" "J10" (id 0) (at 173.99 88.9 0))
+    (property "Reference" "J12" (id 0) (at 173.99 88.9 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 173.355 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1725,7 +1725,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 113.03 118.11 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid bd72c5fa-1dbb-45a7-a8cc-b54e08de1542)
-    (property "Reference" "J15" (id 0) (at 111.76 118.11 0))
+    (property "Reference" "J17" (id 0) (at 111.76 118.11 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 115.57 117.475 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1741,7 +1741,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 143.51 62.23 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid be38b5e6-5e49-4428-81f8-5126c0cd9df0)
-    (property "Reference" "J4" (id 0) (at 143.51 63.5 0))
+    (property "Reference" "J6" (id 0) (at 143.51 63.5 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 142.875 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1757,7 +1757,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 173.99 85.09 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c7411ad8-e24f-4d37-934c-5ae3a7fcf5e7)
-    (property "Reference" "J9" (id 0) (at 173.99 86.36 0))
+    (property "Reference" "J11" (id 0) (at 173.99 86.36 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 173.355 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1773,7 +1773,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 118.11 118.11 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid eff67ea3-356c-41bc-89f6-cf4f41d98f31)
-    (property "Reference" "J17" (id 0) (at 116.84 118.11 0))
+    (property "Reference" "J19" (id 0) (at 116.84 118.11 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 120.65 117.475 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1789,7 +1789,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 115.57 118.11 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f121565f-1e83-46fe-b408-0e7478f06e60)
-    (property "Reference" "J16" (id 0) (at 114.3 118.11 0))
+    (property "Reference" "J18" (id 0) (at 114.3 118.11 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 118.11 117.475 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1862,7 +1862,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Male") (at 149.86 95.25 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid fc70091a-6a60-46f5-a566-effc4f2b3013)
-    (property "Reference" "J12" (id 0) (at 149.86 96.52 0))
+    (property "Reference" "J14" (id 0) (at 149.86 96.52 0))
     (property "Value" "Conn_01x01_Male" (id 1) (at 149.225 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1878,7 +1878,7 @@
   (symbol (lib_id "power:VDD") (at 104.14 38.1 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid fe0d7bb6-a80d-44a2-8cd5-bc53e15835bb)
-    (property "Reference" "#PWR03" (id 0) (at 104.14 41.91 0)
+    (property "Reference" "#PWR02" (id 0) (at 104.14 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD" (id 1) (at 104.14 33.02 0))
@@ -1918,11 +1918,11 @@
     (path "/634068c4-5420-4c1f-be72-59be13cb913d"
       (reference "#PWR01") (unit 1) (value "VBUS") (footprint "")
     )
-    (path "/0be6964b-9f1d-411a-a035-6c65d8e3596e"
-      (reference "#PWR02") (unit 1) (value "GND1") (footprint "")
-    )
     (path "/fe0d7bb6-a80d-44a2-8cd5-bc53e15835bb"
-      (reference "#PWR03") (unit 1) (value "VDD") (footprint "")
+      (reference "#PWR02") (unit 1) (value "VDD") (footprint "")
+    )
+    (path "/0be6964b-9f1d-411a-a035-6c65d8e3596e"
+      (reference "#PWR03") (unit 1) (value "GND1") (footprint "")
     )
     (path "/928acaa1-120b-4fd1-b280-e2642038405e"
       (reference "#PWR04") (unit 1) (value "GND2") (footprint "")
@@ -1948,68 +1948,68 @@
     (path "/002bd37c-2cdf-42fa-9224-e629dce93a31"
       (reference "C4") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
-    (path "/1f4d8215-5efe-4f79-b16f-06aa692013a9"
-      (reference "J1") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:throughPin")
-    )
-    (path "/4482e7cf-9b65-4715-bd9c-386e52a94e50"
-      (reference "J2") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:throughPin")
-    )
-    (path "/669c262d-c5da-41c9-ac05-1b6bfe65291e"
-      (reference "J3") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
-    )
-    (path "/be38b5e6-5e49-4428-81f8-5126c0cd9df0"
-      (reference "J4") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
-    )
-    (path "/3d899ebc-75e9-4388-a3f4-9dce9851a58a"
-      (reference "J5") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
-    )
-    (path "/1f56a82d-2680-4024-ae88-76a11c3a12d3"
-      (reference "J6") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
-    )
-    (path "/67360bad-17c5-4866-b554-85cfd713ebe5"
-      (reference "J7") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
-    )
-    (path "/4ecb0cb9-8b36-4733-b43e-49c2dce829b1"
-      (reference "J8") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
-    )
-    (path "/c7411ad8-e24f-4d37-934c-5ae3a7fcf5e7"
-      (reference "J9") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
-    )
-    (path "/96f346da-fdce-41a4-96c3-7dcc020ec718"
-      (reference "J10") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
-    )
-    (path "/3a3efb47-7ad7-4b64-90ed-a5db99278b8f"
-      (reference "J11") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
-    )
-    (path "/fc70091a-6a60-46f5-a566-effc4f2b3013"
-      (reference "J12") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
-    )
-    (path "/444c5646-501b-4e51-8e4c-f69225228519"
-      (reference "J13") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:throughPin")
-    )
-    (path "/963de0b0-0b43-49ae-abdb-ebe4b5daedf5"
-      (reference "J14") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:throughPin")
-    )
-    (path "/bd72c5fa-1dbb-45a7-a8cc-b54e08de1542"
-      (reference "J15") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:throughPin")
-    )
-    (path "/f121565f-1e83-46fe-b408-0e7478f06e60"
-      (reference "J16") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
-    )
-    (path "/eff67ea3-356c-41bc-89f6-cf4f41d98f31"
-      (reference "J17") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
-    )
-    (path "/1485de8d-8f70-4a20-95c0-aeff96107065"
-      (reference "J18") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
-    )
-    (path "/8770c33d-8988-4980-a1d7-71b8259e6385"
-      (reference "J19") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
-    )
     (path "/03a6a5e6-4ebb-46e5-ac51-49423ce7b71a"
-      (reference "J?") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+      (reference "J1") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
     )
     (path "/09074b74-707f-4fd6-aad1-c707abaec103"
-      (reference "J?") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+      (reference "J2") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+    )
+    (path "/1f4d8215-5efe-4f79-b16f-06aa692013a9"
+      (reference "J3") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:throughPin")
+    )
+    (path "/4482e7cf-9b65-4715-bd9c-386e52a94e50"
+      (reference "J4") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:throughPin")
+    )
+    (path "/669c262d-c5da-41c9-ac05-1b6bfe65291e"
+      (reference "J5") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+    )
+    (path "/be38b5e6-5e49-4428-81f8-5126c0cd9df0"
+      (reference "J6") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+    )
+    (path "/3d899ebc-75e9-4388-a3f4-9dce9851a58a"
+      (reference "J7") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+    )
+    (path "/1f56a82d-2680-4024-ae88-76a11c3a12d3"
+      (reference "J8") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+    )
+    (path "/67360bad-17c5-4866-b554-85cfd713ebe5"
+      (reference "J9") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+    )
+    (path "/4ecb0cb9-8b36-4733-b43e-49c2dce829b1"
+      (reference "J10") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+    )
+    (path "/c7411ad8-e24f-4d37-934c-5ae3a7fcf5e7"
+      (reference "J11") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+    )
+    (path "/96f346da-fdce-41a4-96c3-7dcc020ec718"
+      (reference "J12") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+    )
+    (path "/3a3efb47-7ad7-4b64-90ed-a5db99278b8f"
+      (reference "J13") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+    )
+    (path "/fc70091a-6a60-46f5-a566-effc4f2b3013"
+      (reference "J14") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+    )
+    (path "/444c5646-501b-4e51-8e4c-f69225228519"
+      (reference "J15") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:throughPin")
+    )
+    (path "/963de0b0-0b43-49ae-abdb-ebe4b5daedf5"
+      (reference "J16") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:throughPin")
+    )
+    (path "/bd72c5fa-1dbb-45a7-a8cc-b54e08de1542"
+      (reference "J17") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:throughPin")
+    )
+    (path "/f121565f-1e83-46fe-b408-0e7478f06e60"
+      (reference "J18") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+    )
+    (path "/eff67ea3-356c-41bc-89f6-cf4f41d98f31"
+      (reference "J19") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+    )
+    (path "/1485de8d-8f70-4a20-95c0-aeff96107065"
+      (reference "J20") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
+    )
+    (path "/8770c33d-8988-4980-a1d7-71b8259e6385"
+      (reference "J21") (unit 1) (value "Conn_01x01_Male") (footprint "Shield1:smdPin")
     )
     (path "/fb276488-282f-4860-b1b7-54328c3b1e82"
       (reference "X1") (unit 1) (value "USB_C_24pins") (footprint "Shield1:FPC_12")
