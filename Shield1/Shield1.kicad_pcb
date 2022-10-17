@@ -206,8 +206,13 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1bbf6425-3191-45f9-8ba3-1bd743b2d843)
     )
+<<<<<<< Updated upstream
     (pad "1" connect roundrect (at 0.1 0.03 180) (size 0.45 2.4) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.25)
       (net 6 "D-") (pinfunction "Pin_1") (pintype "passive") (tstamp 7224adee-4074-4f60-b7e0-5188d93f42cc))
+=======
+    (pad "1" thru_hole circle (at 0.125 0.03 180) (size 0.8 0.8) (drill 0.5) (layers *.Cu *.Mask)
+      (net 6 "RX") (pinfunction "Pin_1") (pintype "passive") (tstamp 7224adee-4074-4f60-b7e0-5188d93f42cc))
+>>>>>>> Stashed changes
   )
 
   (footprint "Shield1:FPC_12" (layer "F.Cu")
@@ -362,6 +367,23 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2 2) (drill 2) (layers *.Cu *.Mask) (tstamp 081dae55-f70c-44c4-8ea3-33f196d91a43))
   )
 
+<<<<<<< Updated upstream
+=======
+  (footprint "" (layer "F.Cu")
+    (tedit 0) (tstamp 66b3b340-0c2c-4376-8a54-e597792b7c5e)
+    (at 100 31.1)
+    (fp_text reference "" (at 0 0) (layer "F.SilkS")
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+      (tstamp 85d4e57b-cfeb-45b3-a457-9d0299798f90)
+    )
+    (fp_text value "" (at 0 0) (layer "F.SilkS")
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+      (tstamp 3dc4147e-2919-4c91-82c2-f001439ea917)
+    )
+    (pad "" np_thru_hole circle (at 0 0) (size 2 2) (drill 2) (layers *.Cu *.Mask) (tstamp c64884a4-965c-46b1-8838-ddcc0a034f09))
+  )
+
+>>>>>>> Stashed changes
   (footprint "Shield1:smdPin" (layer "F.Cu")
     (tedit 6347E91C) (tstamp 96680012-ec62-4735-bfd0-b15a46ef153b)
     (at 96.12 26.66)
